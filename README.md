@@ -29,6 +29,7 @@ https://www.raspberrypi.com/software/
   ![image](https://github.com/sValderas1997/robot/assets/135936397/1b5de343-28bd-43b8-b6ce-25efc9c84bed)
 
 - Crear archivo en la carpteta netplan
+  sudo apt-get install pluma
   sudo pluma /etc/netplan/02-my-network-config.yaml
 - En el raspberry pi se necesita tener el archivo ...pi.yaml mientras que en el computador base se necesita tener dev.yaml 
   ![image](https://github.com/sValderas1997/robot/assets/135936397/8d1cb4d8-c959-47e4-8818-d030a99153cc)
